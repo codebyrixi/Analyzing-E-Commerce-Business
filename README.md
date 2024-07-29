@@ -47,7 +47,7 @@ Tahapan ini menggunakan tiga dari delapan dataset yang diberikan, serta menambah
 3. Analisis kategori produk yang memberikan pendapatan total tertinggi untuk masing-masing tahun
 4. Analisis kategori produk yang memiliki jumlah cancel order terbanyak untuk masing-masing tahun
 ![3 0a  Annual Product Category Quality](https://github.com/user-attachments/assets/236a70b9-7171-41b3-b822-de2c9a91b84b)
-![3 0b  Annual Product Category Quality](https://github.com/user-attachments/assets/85d9579f-c867-4233-a667-9c84d4d34ff6)
+![3 0b  Annual Product Category Quality](https://github.com/user-attachments/assets/85d9579f-c867-4233-a667-9c84d4d34ff6)<br>
 Dari keempat analisis tersebut, didapat tabel seperti pada tabel diatas, beserta beberapa analisis grafik dengan analisa grafik sebagai berikut.
 ### Total *Revenue* Tahunan
 ![3a  Total Revenue Tahunan](https://github.com/user-attachments/assets/c5486047-48bf-4790-9cb9-dec82aba0b9f)
