@@ -25,7 +25,7 @@ Tahapan ini menggunakan dua dari delapan dataset yang diberikan, yaitu data pesa
 1. Analisis rata-rata jumlah customer aktif bulanan (monthly active user) untuk setiap tahun
 2. Analisis jumlah customer baru pada masing-masing tahun
 3. Analisis jumlah customer yang melakukan pembelian lebih dari satu kali (*repeat order*) pada masing-masing tahun
-4. Analisis rata-rata jumlah order yang dilakukan customer untuk masing-masing tahun
+4. Analisis rata-rata jumlah order yang dilakukan customer untuk masing-masing tahun<br>
 ![Annual Customer Activity Growth](https://github.com/user-attachments/assets/4282f1e8-d7e1-46a0-a61f-ae0df0494cea)
 Dari keempat analisis tersebut, didapat tabel seperti pada tabel diatas, dengan analisa grafik sbagai berikut.
 ### Rerata MAU (*Monthly Active User*) & Total Pelanggan Baru
