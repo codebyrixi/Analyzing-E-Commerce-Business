@@ -3,10 +3,10 @@
 Project ini merupakan project yang bertujuan untuk menganalisa bisnis performa suatu perusahaan E-Commerce. Project ini dibuat menggunakan PostgreSQL
 
 ## Daftar Isi
-- Persiapan Database
-- Pertumbuhan Aktivitas Pelanggan Tahunan
-- Kualitas Kategori Produk Tahunan
-- Penggunaan Jenis Pembayaran Tahunan
+- [Persiapan Database](https://github.com/codebyrixi/Analyzing-E-Commerce-Business-Performance/tree/main?tab=readme-ov-file#bagian-1-persiapan-database)
+- [Pertumbuhan Aktivitas Pelanggan Tahunan](https://github.com/codebyrixi/Analyzing-E-Commerce-Business-Performance/tree/main?tab=readme-ov-file#bagian-2-pertumbuhan-aktivitas-pelanggan-tahunan)
+- [Kualitas Kategori Produk Tahunan](https://github.com/codebyrixi/Analyzing-E-Commerce-Business-Performance/tree/main?tab=readme-ov-file#bagian-3-kualitas-kategori-produk-tahunan)
+- [Penggunaan Jenis Pembayaran Tahunan](https://github.com/codebyrixi/Analyzing-E-Commerce-Business-Performance/tree/main?tab=readme-ov-file#bagian-4-penggunaan-jenis-pembayaran-tahunan)
 
 ## Bagian 0: Pendahuluan
 Dalam suatu perusahaan mengukur performa bisnis sangatlah penting untuk melacak, memantau, dan menilai keberhasilan atau kegagalan dari berbagai proses bisnis. Oleh karena itu, dalam paper ini akan dianalisa performa bisnis untuk sebuah perusahan eCommerce,  dengan memperhitungkan beberapa metrik bisnis yaitu pertumbuhan pelanggan, kualitas produk, dan tipe pembayaran.
