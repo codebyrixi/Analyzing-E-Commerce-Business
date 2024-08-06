@@ -62,7 +62,8 @@ Tidak berbeda dengan _revenue_ produk top tahunan, total produk yang dibatalkan 
 
 ## Bagian 4: Penggunaan Jenis Pembayaran Tahunan
 Tahapan ini menggunakan dua dari delapan dataset yang diberikan, yaitu dataset pesanan dan pembayaran pesanan. Dari ketiga dataset tersebut, dilakukan beberapa analisis, yaitu menampilkan jumlah penggunaan masing-masing tipe pembayaran secara all time diurutkan dari yang terfavorit, serta menampilkan detil informasi jumlah penggunaan masing-masing tipe pembayaran untuk setiap tahun.
-![4 0  Annual Payment Type Usage](https://github.com/user-attachments/assets/5e29d2b4-d79a-4c98-94ba-cd9cfe8cdaf6)
+![4 0  Annual Payment Type Usage](https://github.com/user-attachments/assets/5e29d2b4-d79a-4c98-94ba-cd9cfe8cdaf6)<br>
+
 Dari kedua analisis tersebut, didapat tabel seperti pada tabel diatas, beserta analisis grafik sebagai berikut.
 ### Jumlah Penggunaan Metode Pembayaran
 ![4a  Jumlah Penggunaan Metode Pembayaran](https://github.com/user-attachments/assets/4079b998-f5f3-4669-9a09-4bfe3c2c8980)
